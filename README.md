@@ -3,6 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <title>Simple HTML Form</title>
+  <style>
+    .body{
+      backgroun color👱‍♂️
+  </style>
 </head>
 <body>
   <h2>Contact Form</h2>
