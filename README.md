@@ -8,6 +8,7 @@
       backgroun color👱‍♂️
   </style>
 </head>
+  <h1>simple form</h1>
 <body>
   <h2>Contact Form</h2>
   <form action="/submit" method="post">
