@@ -5,7 +5,9 @@
   <title>Simple HTML Form</title>
   <style>
     .body{
-      backgroun color👱‍♂️
+      backgound:color red;
+      }
+      
   </style>
 </head>
   <h1>Simple form</h1>
